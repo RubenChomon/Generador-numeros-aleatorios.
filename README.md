@@ -1,4 +1,4 @@
-#Generador de números aleatorios
+# Generador de números aleatorios
 
 Primer programa en Java
 
